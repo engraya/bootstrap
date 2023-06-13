@@ -29,7 +29,6 @@
 *.sublime-workspace
 nbproject
 Thumbs.db
-/.vscode/
 # Local Netlify folder
 .netlify
 
@@ -41,3 +40,7 @@ Thumbs.db
 /dist-sass/
 /js/coverage/
 /node_modules/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
